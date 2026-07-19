@@ -1,91 +1,150 @@
 <h1 align="center">Hi 👋, I'm Y. S. Kamalika</h1>
 
-<h3 align="center">
-B.Tech Artificial Intelligence & Data Science Student | Full Stack Developer | AI Enthusiast
-</h3>
+<h3 align="center">B.Tech Artificial Intelligence & Data Science Student | Full Stack Developer | AI Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;AI+%26+Data+Science+Student;Full+Stack+Web+Developer;Building+Real+World+Projects;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 Third-Year B.Tech Artificial Intelligence & Data Science Student
+🎓 Third-Year **B.Tech Artificial Intelligence & Data Science** Student
 
-💻 Passionate about Full Stack Web Development and Artificial Intelligence
+💻 Passionate about **Full Stack Web Development** & **Artificial Intelligence**
 
-🌱 Currently learning
+🌱 Currently Learning
+
 - Java
 - Data Structures & Algorithms
-- Web Development
 - Cloud Computing
 - Deep Learning
+- Web Development
 
-🚀 Interested in
+🚀 Interested In
+
 - Artificial Intelligence
-- Full Stack Development
 - Machine Learning
+- Full Stack Development
+- Cloud Technologies
 - Open Source
-- Problem Solving
 
-📍 India
+📍 India 🇮🇳
 
 ---
 
 # 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
-- Java
-- Python
-- PHP
-- JavaScript
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</p>
 
 ### Frontend
 
-- HTML5
-- CSS3
-- Bootstrap
+<p>
 
-### Backend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-- PHP
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-### Database
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-- MySQL
+</p>
 
-### Tools & Technologies
+### Backend & Database
 
-- Git
-- GitHub
-- XAMPP
-- VS Code
-- Chart.js
+<p>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
+
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamalikasenthilnaathan09&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalikasenthilnaathan09&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kamalikasenthilnaathan09&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kamalikasenthilnaathan09&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
 ## 💰 SpendWise
-### Smart Student Expense Tracker with Budget Alerts and Analytics
 
-A modern full-stack expense management system that enables students to manage income, expenses, savings, and financial reports through an interactive dashboard.
+### Smart Student Expense Tracker with Budget Alerts & Analytics
 
-### Features
+✔ Income & Expense Tracking
 
-- Secure Authentication
-- Dashboard Analytics
-- Expense Tracking
-- Income Management
-- Budget Alerts
-- Reports
-- Responsive UI
-- Live Deployment
+✔ Interactive Dashboard
+
+✔ Reports & Charts
+
+✔ Budget Alerts
+
+✔ Savings Tracking
+
+✔ Responsive Design
 
 🌐 **Live Demo**
 
 http://spendwise.byethost10.com
 
-📂 **Repository**
+📂 Repository
 
 https://github.com/kamalikasenthilnaathan09/SpendWise-Smart-Student-Expense-Tracker-with-Budget-Alerts-and-Analytics
 
@@ -93,7 +152,7 @@ https://github.com/kamalikasenthilnaathan09/SpendWise-Smart-Student-Expense-Trac
 
 ## 🚨 Smart Safety Network
 
-Emergency Safety Web Application with
+Emergency Safety Web Application featuring
 
 - SOS Alerts
 - GPS Tracking
@@ -107,37 +166,55 @@ https://github.com/kamalikasenthilnaathan09/Smart-Safety-Network
 
 ---
 
-# 📈 GitHub Stats
+## 🧠 MemoryVerse AI *(In Progress)*
 
-- Public Repositories
-- Continuous Learning
-- Open Source Projects
-- Problem Solving
-- Full Stack Development
+AI-powered Digital Identity System
+
+- AI Document Understanding
+- Knowledge Graph
+- Semantic Search
+- Intelligent Student Portfolio
 
 ---
 
 # 🎯 Current Focus
 
-✔ Data Structures & Algorithms
+✔ Java
 
-✔ Java Development
+✔ Data Structures & Algorithms
 
 ✔ Full Stack Development
 
 ✔ Artificial Intelligence
 
-✔ Cloud Computing
+✔ Deep Learning
 
-✔ Building Real World Projects
+✔ Cloud Computing
 
 ---
 
-# 📚 Currently Working On
+# 📚 Currently Learning
 
-🧠 MemoryVerse AI
+- Advanced Java
+- Data Structures & Algorithms
+- Deep Learning
+- Distributed Computing
+- Business Analytics
+- Cloud Service Management
 
-An AI-powered Digital Identity System that transforms fragmented academic and professional records into an intelligent, searchable knowledge base.
+---
+
+# 📈 Goals for 2026
+
+🎯 Strengthen DSA skills
+
+🎯 Build AI-powered applications
+
+🎯 Contribute to Open Source
+
+🎯 Secure a Software Development Internship
+
+🎯 Build an impressive project portfolio
 
 ---
 
@@ -149,6 +226,14 @@ https://github.com/kamalikasenthilnaathan09
 
 ---
 
-## ⭐ Quote
+# 💬 Quote
 
-> *"Learning by building real-world projects, one step at a time."*
+> **"Every project is a step toward becoming a better engineer. Keep building, keep learning, and never stop improving."** 🚀
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
