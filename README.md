@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=kamalikasenthilnaathan09&style=for-the-badge&color=0e75b6)
 <h1 align="center">Hi 👋, I'm Y. S. Kamalika</h1>
 
 <h3 align="center">B.Tech Artificial Intelligence & Data Science Student | Full Stack Developer | AI Enthusiast</h3>
@@ -88,6 +89,7 @@
 
 </p>
 
+---
 ---
 
 # 📊 GitHub Statistics
