@@ -92,12 +92,11 @@
 ---
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamalikasenthilnaathan09&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalikasenthilnaathan09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+![Kamalika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalikasenthilnaathan09&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalikasenthilnaathan09&layout=compact&theme=tokyonight)
 
 ---
 
