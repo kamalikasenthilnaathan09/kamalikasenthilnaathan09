@@ -163,7 +163,7 @@ https://github.com/kamalikasenthilnaathan09/Smart-Safety-Network
 
 ---
 
-## 🧠 MemoryVerse AI *(In Progress)*
+## 🧠 Identra AI 
 
 AI-powered Digital Identity System
 
